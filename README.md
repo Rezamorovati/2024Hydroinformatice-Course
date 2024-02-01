@@ -1,2 +1,2 @@
-# 2024Hydroinformatice-Course
+# 2024Hydroinformatic-Course
 code for CEE6110
